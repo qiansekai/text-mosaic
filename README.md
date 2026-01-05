@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python webui.py
 ```
 
-打开 http://127.0.0.1:7861，粘贴图片，输入要打码的文字。
+打开 http://127.0.0.1:7861 ，粘贴图片，输入要打码的文字。
 
 ### 命令行
 
